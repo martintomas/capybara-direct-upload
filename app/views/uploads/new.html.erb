@@ -1,0 +1,7 @@
+<br />
+<%= form_for @upload do |f| %>
+  <%= f.file_field :file, direct_upload: true %>
+  <br />
+  <br />
+  <%= f.submit 'Upload' %>
+<% end %>
