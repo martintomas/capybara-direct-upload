@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Minimalistic Rails app presenting issue with direct upload and Capybara tests. It also contains hacky solution which can be seen at https://github.com/martintomas/capybara-direct-upload/blob/main/test/system/uploads_system_test.rb#L8
